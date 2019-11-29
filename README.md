@@ -1,2 +1,2 @@
 # magnetic-sensor-slackbot
-Ping a slack channel when a hall effect sensor is triggered
+Send a message to a slack channel at a given interval.
